@@ -2,6 +2,6 @@
 <div align="center"> 
 	<img src="Js.png"/>
 	<img src="nodejs.png"/>
-	<img src="Reactjs.png"/>
+	<img src="ReactJs.png"/>
 	<img src="firebase.png"/>
 </div>
