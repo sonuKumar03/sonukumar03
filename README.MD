@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Sonu Kumar** working as **Software Engineer @ Interbiz Consulting Pvt. Ltd.**. I am an Experienced **Front-End Developer** with a demonstrated history of working in the information technology and Iot industry. **Skilled in  Angular,RxJs** Also having working knowledge of  **React JS,NodeJS, MongoDB, Mean Stack, RESTfull API’s,Figma to HTML, User Experience,** Strong engineering professional with a Bachelor of Technology focused in UI UX Developer / Front End Developer / Web Designer from Govt Engineering College Bilaspur (C.G.).
+I am **Sonu Kumar** working as **Software Engineer @ Spotdraft.**. I am an Experienced **Front-End Developer** with a demonstrated history of working in the information technology and Iot industry. **Skilled in  Angular,RxJs** Also having working knowledge of  **React JS,NodeJS, MongoDB, Mean Stack, RESTfull API’s,Figma to HTML, User Experience,** Strong engineering professional with a Bachelor of Technology focused in UI UX Developer / Front End Developer / Web Designer from Govt Engineering College Bilaspur (C.G.).
 
 ### 😄 Pronouns
 He/Him
