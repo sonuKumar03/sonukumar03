@@ -37,18 +37,18 @@ I'm a **Creative Front-End Developer & Software Engineer** based in Bengaluru, I
 
 <p align="left">
   <a href="https://github.com/sonuKumar03/liquid-lsp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquid-lsp&theme=dark" height="120" alt="liquid-lsp" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquid-lsp" height="120" alt="liquid-lsp" />
   </a>
   <a href="https://github.com/sonuKumar03/liquidjs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquidjs&theme=dark" height="120" alt="liquidjs" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquidjs" height="120" alt="liquidjs" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/sonuKumar03/nvim-config">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=nvim-config&theme=dark" height="120" alt="nvim-config" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=nvim-config" height="120" alt="nvim-config" />
   </a>
   <a href="https://github.com/sonuKumar03/leetcode-compensation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=leetcode-compensation&theme=dark" height="120" alt="leetcode-compensation" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=leetcode-compensation" height="120" alt="leetcode-compensation" />
   </a>
 </p>
 
