@@ -54,38 +54,6 @@ I'm a **Creative Front-End Developer & Software Engineer** based in Bengaluru, I
 
 ---
 
-<details>
-<summary>🎓 Education & Certifications</summary>
-
-*   **B.Tech in Information Technology** — Government Engineering College Bilaspur (June 2016 – July 2020) | *CGPA: 7.52*
-*   **HSC (Higher Secondary Class)** — Jawahar Navodaya Vidyalaya Baikunthpur (July 2014 – June 2016) | *Score: 86%*
-*   **Certificates**: The Web Developer Bootcamp | Angular (Intermediate) | JavaScript (Intermediate)
-</details>
-
----
-
-### 📊 Github & Coding Statistics
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=sonuKumar03&show_icons=true&hide_border=true&theme=github_dark" alt="Sonu's GitHub Stats" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuKumar03&hide_border=true&theme=github_dark" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="padding-top: 15px;">
-      <a href="https://leetcode.com/u/sonukumar03xt/">
-        <img src="https://leetcard.jacoblin.cool/sonukumar03xt?theme=github-dark&font=Inter" alt="LeetCode Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <i>"Simplicity is the soul of efficiency."</i>
 </p>
