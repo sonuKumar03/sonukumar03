@@ -66,12 +66,23 @@ I'm a **Creative Front-End Developer & Software Engineer** based in Bengaluru, I
 
 ### 📊 Github & Coding Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonuKumar03&show_icons=true&hide_border=true&theme=dark" alt="Sonu's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuKumar03&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sonukumar03xt?theme=dark&font=Inter)](https://leetcode.com/u/sonukumar03xt/)
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=sonuKumar03&show_icons=true&hide_border=true&theme=github_dark" alt="Sonu's GitHub Stats" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuKumar03&hide_border=true&theme=github_dark" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="padding-top: 15px;">
+      <a href="https://leetcode.com/u/sonukumar03xt/">
+        <img src="https://leetcard.jacoblin.cool/sonukumar03xt?theme=github-dark&font=Inter" alt="LeetCode Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
