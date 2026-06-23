@@ -71,7 +71,7 @@ I'm a **Creative Front-End Developer & Software Engineer** based in Bengaluru, I
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuKumar03&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
-[![LeetCode Stats](https://leetcard.jacobw.cc/sonukumar03xt?theme=dark&font=Inter)](https://leetcode.com/u/sonukumar03xt/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sonukumar03xt?theme=dark&font=Inter)](https://leetcode.com/u/sonukumar03xt/)
 
 ---
 
