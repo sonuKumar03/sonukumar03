@@ -1,8 +1,8 @@
-# Hi, I’m Sonu Kumar 👋
+# Hi, I'm Sonu Kumar 👋
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1500&color=3178C6&width=580&lines=Software+Engineer+%7C+Developer+Tools;Building+liquid-lsp;Angular+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Node.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4500&pause=1500&color=3178C6&width=580&lines=Software+Engineer+%7C+Developer+Tools;Building+bundleradar+%26+liquid-lsp;Go+%C2%B7+TypeScript+%C2%B7+Python+%C2%B7+Angular" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,16 +18,16 @@
 
 Software Engineer based in Bengaluru with 5+ years of experience building web applications and developer tools. Currently at **Spotdraft**, architecting document productivity solutions and core platform workflows.
 
-I also maintain **[liquid-lsp](https://github.com/sonuKumar03/liquid-lsp)** — a Language Server Protocol implementation for the Liquid template language — and contribute to its upstream parser **[liquidjs](https://github.com/sonuKumar03/liquidjs)**.
+I build tools that improve developer experience — **[bundleradar](https://github.com/sonuKumar03/bundleradar)** for Angular bundle analysis with MCP integration, and **[liquid-lsp](https://github.com/sonuKumar03/liquid-lsp)** for Liquid template intelligence in VS Code. I also contribute upstream to **[liquidjs](https://github.com/harttle/liquidjs)**.
 
-When I’m not coding, I’m either exploring new places or watching anime.
+When I'm not coding, I'm either exploring new places or watching anime.
 
 ---
 
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,angular,nodejs,express,html,css,sass,bootstrap,postgres,mongodb,mysql,docker,bash,git,cypress,figma,neovim,vim,vscode&perline=7" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=go,ts,js,py,angular,nodejs,express,html,css,sass,postgres,mongodb,mysql,docker,bash,git,cypress,neovim,vim,vscode,figma&perline=7" alt="Tech Stack" />
 </p>
 
 ---
@@ -35,6 +35,13 @@ When I’m not coding, I’m either exploring new places or watching anime.
 ### Open Source & Projects
 
 <p align="left">
+  <a href="https://github.com/sonuKumar03/bundleradar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=bundleradar&theme=github_dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=bundleradar&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=bundleradar&hide_border=true" height="128" alt="bundleradar" />
+    </picture>
+  </a>
   <a href="https://github.com/sonuKumar03/liquid-lsp">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquid-lsp&theme=github_dark&hide_border=true" />
@@ -42,27 +49,20 @@ When I’m not coding, I’m either exploring new places or watching anime.
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquid-lsp&hide_border=true" height="128" alt="liquid-lsp" />
     </picture>
   </a>
-  <a href="https://github.com/sonuKumar03/liquidjs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquidjs&theme=github_dark&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquidjs&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=liquidjs&hide_border=true" height="128" alt="liquidjs" />
-    </picture>
-  </a>
 </p>
 <p align="left">
+  <a href="https://github.com/sonuKumar03/nearhive">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=nearhive&theme=github_dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=nearhive&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=nearhive&hide_border=true" height="128" alt="nearhive" />
+    </picture>
+  </a>
   <a href="https://github.com/sonuKumar03/nvim-config">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=nvim-config&theme=github_dark&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=nvim-config&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=nvim-config&hide_border=true" height="128" alt="nvim-config" />
-    </picture>
-  </a>
-  <a href="https://github.com/sonuKumar03/leetcode-compensation">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=leetcode-compensation&theme=github_dark&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=leetcode-compensation&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuKumar03&repo=leetcode-compensation&hide_border=true" height="128" alt="leetcode-compensation" />
     </picture>
   </a>
 </p>
